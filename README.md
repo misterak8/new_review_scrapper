@@ -1,6 +1,6 @@
 # new_review_scrapper
 
-#AUTHOR -- AK
+#AUTHOR-AK
 
 ## OVERVIEW
 
