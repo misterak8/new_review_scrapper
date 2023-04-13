@@ -1,5 +1,7 @@
 # new_review_scrapper
 
+#AUTHOR -- AK
+
 ## OVERVIEW
 
 This code is a web scraper implemented using Flask that scrapes reviews from the Flipkart website based on a user's search query. The reviews are stored in a CSV file with the name of the file being the search query.
